@@ -1,15 +1,13 @@
 <div align="center">
   <!-- Project Logo / Hero Image -->
-  <img src="your-clippy-avatar-url.png" alt="Blender Clippy Companion" width="120" style="border-radius: 50%;" />
-
+  <img src="https://github.com/user-attachments/assets/862cb9da-e99f-4707-b782-3cbf6a1d00b6" alt="Blender Clippy Companion" width="120" style="border-radius: 50%;" />
   <h1>Clippy for Blender 📎🤖</h1>
   <p><b>Your vintage desktop companion, now helping you master 3D modeling!</b></p>
 
   <!-- Badges -->
   <p>
-    <img src="https://shields.io" alt="Blender Version">
-    <img src="https://shields.io" alt="Languages">
-    <img src="https://shields.io" alt="License">
+    <img src="https://github.com/user-attachments/assets/68bd6ae9-d5de-4654-ac26-a8dd2920547c" alt="Tips">
+    <img src="https://github.com/user-attachments/assets/05bf3a07-3f20-4a26-949e-f100a4b945fd" alt="Tutorials">
   </p>
 
   <hr />
@@ -39,30 +37,33 @@
   <hr />
 
   <!-- Clippy Expressions / Gallery -->
-  <h3>Expressions Gallery</h3>
-  <br />
+  <!-- Installation Section -->
+<div align="left">
+  <h2>📥 Installation</h2>
+  <ol>
+    <li>
+      Download the latest release ZIP file from the 
+      <a href="https://github.com">Releases page</a>.
+    </li>
+    <li>
+      Open Blender and go to <b>Edit</b> &gt; <b>Preferences</b> &gt; <b>Add-ons</b>.
+    </li>
+    <li>
+      Click the <b>Install...</b> button at the top right of the preferences window.
+    </li>
+    <li>
+      Select the downloaded ZIP file and click <b>Install Add-on</b>.
+    </li>
+    <li>
+      Check the box next to <b>"Interface: Clippy for Blender"</b> to enable it.
+    </li>
+    <li>
+      Reveal right menu in 3D viewport by draggin arrow or jusck clicking "N", select Clippy tab and Enable him.
+    </li>
+  </ol>
   
-  <table cellpadding="5" cellspacing="5" border="0">
-    <tr>
-      <td align="center">
-        <img src="clippy-idle.png" alt="Clippy Idle" width="130"/><br/>
-        <sub>Default / Idle</sub>
-      </td>
-      <td align="center">
-        <img src="clippy-idea.png" alt="Clippy Idea" width="130"/><br/>
-        <sub>Idea / Tip Alert</sub>
-      </td>
-      <td align="center">
-        <img src="clippy-render.png" alt="Clippy Rendering" width="130"/><br/>
-        <sub>Rendering Mode</sub>
-      </td>
-      <td align="center">
-        <img src="clippy-error.png" alt="Clippy Error" width="130"/><br/>
-        <sub>Oops! (Error Guide)</sub>
-      </td>
-    </tr>
-  </table>
-
+  <p><i>💡 <b>Quick Start:</b> Right-click on Clippy anytime in the Blender viewport to switch languages between English and Polski!</i></p>
 </div>
 
-<img width="86" height="120" alt="image" src="https://github.com/user-attachments/assets/862cb9da-e99f-4707-b782-3cbf6a1d00b6" />
+
+</div>
